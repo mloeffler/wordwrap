@@ -54,7 +54,7 @@ This note is short. But still, we may break it into several lines:
 
 {pstd}
 This is even shorter. Of course you wouldn't break a note like this into
-pieces. But imagine how useful this could be if you have to document all the
+pieces. But imagine how useful this could be if you had to document all the
 details of your graph in one single very long note.
 
 
