@@ -1,7 +1,7 @@
 Stata package wordwrap
 ======================
 
-Wordwrap is a Stata routing that wraps a string to a specific number of characters. What wordwrap does is really just breaking a very long string into pieces and adding new lines. This might be useful if you are dealing with very long notes below Stata graphs or other stuff. No hyphenation supported.
+Wordwrap is a Stata routing that wraps a string to a specific number of characters. What wordwrap does is really just wrapping a very long string into pieces and adding line breaks. This might be useful if you are dealing with very long notes below Stata graphs or other stuff. No hyphenation supported.
 
 
 ## Installation
@@ -32,7 +32,7 @@ This is even shorter, right? Of course you wouldn't break a note like this into 
 
 ## Info
 
-Copyright (C) 2014, [Max Löffler](http://www.zew.de/en/staff/mlo)
+Copyright (C) 2014, [Max LÃ¶ffler](http://www.zew.de/en/staff/mlo)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
